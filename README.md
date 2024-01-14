@@ -1,6 +1,5 @@
 # cordera65-Django
 
-## Entornos virtuales
 
 Un entorno virtual en Python es una herramienta 
 
